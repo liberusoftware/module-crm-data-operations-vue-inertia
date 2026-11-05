@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-data-operations-vue-inertia",
+  "capabilityKey": "liberusoftware/module-crm-data-operations",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-crm-data-operations-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/crm/nextjs/data-operations.md",
+  "presentationPlan": "projects/crm/vue/data-operations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
